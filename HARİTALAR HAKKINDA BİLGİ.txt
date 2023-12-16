@@ -1,0 +1,51 @@
+ANAHARITA.TXT HARİTASI 
+
+"labirent.cpp" dosyası dosyası yapılması gereken değişiklik : 
+#define YUKSEKLIK 20
+#define GENISLIK 50
+std::ifstream dosyaOku("AnaHarita.txt");
+
+"main.cpp" dosyası dosyası yapılması gereken değişiklik : 
+baslangic.satir = 0; baslangic.sutun = 19; //baslangıc
+bitis.satir = 19; bitis.sutun = 11; //bitis
+
+"labirent.h" dosyası yapılması gereken değişiklik : 
+#define YUKSEKLIK 20
+#define GENISLIK 50
+
+-----------------------------------------------------------------------------------------------------
+
+
+HARITA.TXT HARİTASI 
+
+"labirent.cpp" dosyası dosyası yapılması gereken değişiklik : 
+#define YUKSEKLIK 10
+#define GENISLIK 15
+std::ifstream dosyaOku("Harita.txt");
+
+"main.cpp" dosyası dosyası yapılması gereken değişiklik : 
+baslangic.satir = 0; baslangic.sutun = 5; //baslangıc
+bitis.satir = 9; bitis.sutun = 3; //bitis
+
+"labirent.h" dosyası yapılması gereken değişiklik : 
+#define YUKSEKLIK 10
+#define GENISLIK 15
+
+-----------------------------------------------------------------------------------------------------
+
+HARITA2.TXT HARİTASI 
+
+"labirent.cpp" dosyası dosyası yapılması gereken değişiklik : 
+#define YUKSEKLIK 9
+#define GENISLIK 11
+std::ifstream dosyaOku("Harita2.txt");
+
+"main.cpp" dosyası dosyası yapılması gereken değişiklik : 
+baslangic.satir = 0; baslangic.sutun = 2; //baslangıc
+bitis.satir = 8; bitis.sutun = 8; //bitis
+
+"labirent.h" dosyası yapılması gereken değişiklik : 
+#define YUKSEKLIK 9
+#define GENISLIK 11
+
+
