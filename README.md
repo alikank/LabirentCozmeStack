@@ -55,13 +55,6 @@ Proje Konum ve Labirent olmak üzere iki farklı sınıftan oluşmaktadır.
 
 Örnek haritalar projenin ana dizininde paylaşılmıştır, haritaların yükseklik ve genişlik gibi bilgileri `HARİTALAR HAKKINDA BİLGİ.txt` dosyasında bulunmaktadır.
 
-
-  
-## Yardım
-
-Projelenin klasörlere ayrışması ve mingw make file yardımıyla çalıştırılması için CHATGPT (yapay zekadan) destek alınmıştır.
-
-  
 ## Bilgisayarınızda Çalıştırın
 
 Proje dizininden CMD açın
@@ -76,10 +69,12 @@ Derleme işlemi sonrası programı çalıştırın
   mingw32-make calistir
 ```
 
-
-
-
   
+## Yardım
+
+Projelenin klasörlere ayrışması ve mingw make file yardımıyla çalıştırılması için CHATGPT (yapay zekadan) destek alınmıştır.
+  
+
 ## Alikan Köse
 alikan.com.tr
 
