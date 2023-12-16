@@ -72,7 +72,7 @@ Derleme işlemi sonrası programı çalıştırın
   
 ## Yardım
 
-Projelenin klasörlere ayrışması ve mingw make file yardımıyla çalıştırılması için CHATGPT (yapay zekadan) destek alınmıştır.
+Projenin klasörlere ayrışması ve mingw make file yardımıyla çalıştırılması için CHATGPT (yapay zekadan) destek alınmıştır.
   
 
 ## Alikan Köse
